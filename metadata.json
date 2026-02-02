@@ -1,0 +1,8 @@
+{
+  "name": "Forge Performance Lab - Premium Fitness Website",
+  "description": "A high-conversion, enquiry-focused professional gym website built for modern urban fitness studios.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
