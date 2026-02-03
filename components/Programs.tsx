@@ -4,11 +4,7 @@ import { ArrowRight } from 'lucide-react';
 
 const Programs: React.FC = () => {
   const programs = [
-    {
-      title: "Weight Loss Program",
-      desc: "Structured training and nutrition guidance for fat loss and energy.",
-      img: "https://images.unsplash.com/photo-1549476464-37392f71752a?auto=format&fit=crop&q=80&w=600"
-    },
+
     {
       title: "Muscle Building",
       desc: "Progressive strength training focused on lean muscle growth.",
